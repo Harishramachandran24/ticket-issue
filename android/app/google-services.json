@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807059797536",
+    "project_id": "ticketform-ba2ca",
+    "storage_bucket": "ticketform-ba2ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807059797536:android:4f484924bacf9c3ac8ee45",
+        "android_client_info": {
+          "package_name": "com.example.ticketform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe3pNUATODzNv6Pfke1TsT4JvpGnIy9jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
